@@ -13,6 +13,7 @@ var name = 'Tyler';
       return false;
   }
 
+  isTyler(name)
 //////////////////PROBLEM 2////////////////////
 
 
